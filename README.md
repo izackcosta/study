@@ -1,1 +1,1 @@
-# study
+This is Izack Costa`s first git project.
